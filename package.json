@@ -1,0 +1,25 @@
+{
+  "name": "api-breakingnews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"npm index.js",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrick-ddeus/api-breakingnews.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrick-ddeus/api-breakingnews/issues"
+  },
+  "homepage": "https://github.com/patrick-ddeus/api-breakingnews#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
